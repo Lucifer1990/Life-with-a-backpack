@@ -13,4 +13,7 @@ A travel blog by Ankur Biswas
 9) git branch branchname (will create a new branch which will be having all currently avilable files in master )
 10) git checkout branchname (o switch between brances)
 11) git merge brachname (to merge changes done in new branch to master. remeber you have to be checked into master branch while doing this step)
-12)
+12) git config --global user.email iamankurb@gmail.com (need to config user email)
+13) git config --global user.name Lucifer1990 (need to config user name)
+14) git push --set-upstream origin master (to push everything from local repo to remote repo)
+
